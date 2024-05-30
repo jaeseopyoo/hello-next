@@ -3,7 +3,7 @@ run-name: ${{ github. actor }} has been added new commit.
 
 on:
     push:
-        branch:
+        branches:
             - master
 
 jobs:
