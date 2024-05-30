@@ -1,5 +1,5 @@
 name: hello-next build
-run-name: ${{ github, actor }} has been added new commit.
+run-name: ${{ github. actor }} has been added new commit.
 
 on:
     push:
